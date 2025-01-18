@@ -44,6 +44,7 @@ function showTooltip(message) {
   tooltip.style.borderRadius = "12px";
   tooltip.style.padding = "10px 20px";
   tooltip.style.zIndex = "1000";
+  tooltip.style.fontFamily = "monospace";
   tooltip.innerText = message;
 
   document.body.appendChild(tooltip);
