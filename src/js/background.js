@@ -18,7 +18,7 @@ document.querySelector("#save-image").addEventListener("click", () => {
     return;
   }
   processingBg.innerHTML =
-    '<i class="las la-check-circle"></i> Background image has been successfully applied, please reload the page to this change in effect...';
+    '<i class="las la-check-circle"></i> Background image has been successfully applied, please reload the page to see this change in effect...';
   localStorage.setItem("image_url", imageUrlValue);
   localStorage.removeItem("imageupload");
   body.style.backgroundImage = `url(${imageUrlValue})`;
