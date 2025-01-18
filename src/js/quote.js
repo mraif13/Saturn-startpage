@@ -1,5 +1,11 @@
-// Quotes provided by https://type.fit/api/quotes, to keep Saturn offline, the quotes were copied instead.
-// Full credits to them :D
+//                         __              _      
+//   ____ _ __  __ ____   / /_ ___        (_)_____
+//  / __ `// / / // __ \ / __// _ \      / // ___/
+// / /_/ // /_/ // /_/ // /_ /  __/_    / /(__  ) 
+// \__, / \__,_/ \____/ \__/ \___/(_)__/ //____/  
+//   /_/                            /___/         
+
+// Quotes provided by https://type.fit/api/quotes, credits to them :)
 
 const quotes = [
   {
